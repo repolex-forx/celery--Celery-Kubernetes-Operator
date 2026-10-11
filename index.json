@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "Celery-Kubernetes-Operator",
+  "versions": [
+    {
+      "commit": "622cfa832484f70a8541f03bd89d27ea0bae1e91",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:11:57.784476+00:00"
+    }
+  ]
+}
