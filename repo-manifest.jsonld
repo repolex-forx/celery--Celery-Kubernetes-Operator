@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/Celery-Kubernetes-Operator/commit/622cfa832484f70a8541f03bd89d27ea0bae1e91",
       "git:hexsha": "622cfa832484f70a8541f03bd89d27ea0bae1e91",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
